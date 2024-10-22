@@ -6,5 +6,6 @@ import './index.css'
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
     <App />
+    console.log("appen körs");
   </StrictMode>,
 )
